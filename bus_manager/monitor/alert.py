@@ -5,9 +5,9 @@ import re
 sys.path.append('/etc/dbCluster')
 from  send_alert  import Client 
 
-kid = "2013111310"
-passwd = "1wU7yqIuoawKgZDlnbRsG88CEIJUcN"
-url_path = '/v1/alert/send'
+kid = "xxxxxxxx"
+passwd = "xxxxxxxxxxx"
+url_path = 'xxxxxxxxxxxx'
 
 def usage(return_code=2):
     help = """
